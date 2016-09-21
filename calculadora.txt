@@ -5,3 +5,5 @@ Agrego el metodo para introducir los dos números
 Agrego el metodo sumar
 
 Agrego el metodo restar
+
+Agrego el metodo multiplicar
