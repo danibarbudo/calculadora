@@ -7,3 +7,5 @@ Agrego el metodo sumar
 Agrego el metodo restar
 
 Agrego el metodo multiplicar
+
+Agrego el metodo comprobar 
