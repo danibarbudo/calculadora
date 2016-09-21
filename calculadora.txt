@@ -1,1 +1,3 @@
 Aquí creo el archivo calculadora.java 
+
+Agrego el metodo para introducir los dos números 
