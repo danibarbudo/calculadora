@@ -1,0 +1,1 @@
+Aquí ponemos el código que necesitaríamos para introducir dos números por teclado
